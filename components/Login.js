@@ -13,7 +13,6 @@ import {
   Label,Toast,
   Spinner
 } from "native-base";
-//import GoogleSignin from "./GoogleSignin";
 
 function Login({ navigation }) {
     const [loading, setLoading] = useState(false);
